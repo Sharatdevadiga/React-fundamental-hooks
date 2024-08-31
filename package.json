@@ -1,0 +1,25 @@
+{
+  "name": "react-fundamental-hooks",
+  "version": "1.0.2",
+  "main": "src/index.js",
+  "module": "dist/index.esm.js",
+  "author": "Sharath Devadiga",
+  "license": "ISC",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "clean": "rm -rf dist"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "rollup": "^2.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-babel": "^5.0.0"
+  }
+}
