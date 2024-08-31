@@ -1,4 +1,4 @@
-# React Fundamental Hooks
+# React Hooks Fundamental
 
 A collection of essential React hooks that can be used in any React project. These hooks simplify various tasks such as data fetching, form handling, debouncing, and throttling.
 
@@ -7,13 +7,13 @@ A collection of essential React hooks that can be used in any React project. The
 You can install this package via npm:
 
 ```bash
-npm i react-fundamental-hooks
+npm i react-hooks-fundamental
 ```
 
 Or with yarn:
 
 ```bash
-yarn add react-fundamental-hooks
+yarn add react-hooks-fundamental
 ```
 
 ## Usage
